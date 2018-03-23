@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThirdClass</string>
+    <string name="title_activity_my_design">MyDesignActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="bindu"> This is fragment page... now song start....Bindu ami tmi amy ghire britter vitor sudhu tmi aco.matal ami tmr preme tai orthohin sob e je prem lage</string>
+</resources>
